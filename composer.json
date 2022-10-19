@@ -1,0 +1,15 @@
+{
+    "name": "fluxtechnicalltd/helloworld",
+    "autoload": {
+        "psr-4": {
+            "Fluxtechnicalltd\\Helloworld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marc Forth",
+            "email": "forth.m_social@icloud.com"
+        }
+    ],
+    "require": {}
+}
